@@ -26,7 +26,7 @@ python3 bot.py
 
 ## Variables
 
-* `API_HASH` Your API Hash from [my.telegram.org](my.telegram.org)
+* `API_HASH` Your API Hash from [my.telegram.org](https://my.telegram.org)
 * `API_ID` Your API ID from [my.telegram.org](https://my.telegram.org)
 * `BOT_TOKEN` Your bot token from [@BotFather](https://t.me/Botfather)
 * `AUTH_USERS` Allow only pre-defined users to use this bot
@@ -34,13 +34,13 @@ python3 bot.py
 
 ## Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+
+
+* [GitHub](https://github.com/piyushraj00)
+* [Telegram](https://t.me/YouTubeVideoDownloaderService)
 
 ## Credits
 
-* [Fayas Noushad](https://github.com/FayasNoushad)
-* [Shrimadhav UK](https://github.com/SpEcHIDe)
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [PIYUSH RAJ](https://github.com/piyushraj00)
+
+
