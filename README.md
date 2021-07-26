@@ -27,8 +27,8 @@ python3 bot.py
 ## Variables
 
 * `API_HASH` Your API Hash from [my.telegram.org](my.telegram.org)
-* `API_ID` Your API ID from [my.telegram.org](my.telegram.org)
-* `BOT_TOKEN` Your bot token from [@BotFather](t.me/Botfather)
+* `API_ID` Your API ID from [my.telegram.org](https://my.telegram.org)
+* `BOT_TOKEN` Your bot token from [@BotFather](https://t.me/Botfather)
 * `AUTH_USERS` Allow only pre-defined users to use this bot
 * `TIME_LIMIT` For time to next process in second 
 
