@@ -1,21 +1,21 @@
 {
-  "name": "YouTube Downloader",
-  "description": "A simple YouTube downloader bot with permenent thumbnail support",
+  "name": "YouTube Downloader Bot"
+  "description": "A simple YouTube downloader Bot",
   "keywords": [
     "telegram",
     "youtube",
     "downloader"
   ],
-  "success_url": "https://github.com/FayasNoushad",
+  "success_url": "https://github.com/piyush00",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/FayasNoushad/YouTube-Downloader",
+  "repository": "https://github.com/piyush00/YouTube-Downloader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Your bot token from @botfather, as a string."
+      "description": "Your bot token from @botfather"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org"
