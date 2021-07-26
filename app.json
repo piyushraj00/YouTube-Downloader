@@ -1,14 +1,14 @@
 {
-  "name": "YouTube Downloader Bot"
+  "name": "YouTube Downloader Bot",
   "description": "A simple YouTube downloader Bot",
   "keywords": [
     "telegram",
     "youtube",
     "downloader"
   ],
-  "success_url": "https://github.com/piyush00",
+  "success_url": "https://github.com/piyushraj00",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/piyush00/YouTube-Downloader",
+  "repository": "https://github.com/piyushraj00/YouTube-Downloader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
