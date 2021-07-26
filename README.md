@@ -1,6 +1,6 @@
 # YouTube-Downloader Bot
 
-Our YouTube Downloader Bot
+Our YouTube Downloader Bot.
 
 ```
 
